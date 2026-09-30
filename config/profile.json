@@ -1,0 +1,203 @@
+{
+  "username": "amarssingh",
+  "name": "Amar Singh",
+  "handle": "amar",
+  "tagline": "Computer Science graduate · aspiring AI & ML engineer",
+  "links": {
+    "github": "https://github.com/amarssingh",
+    "linkedin": "https://www.linkedin.com/in/amarssingh-in",
+    "email": "amarsingh.eos@gmail.com"
+  },
+  "ascii": {
+    "source": "assets/profile/portrait.jpg",
+    "crop": [
+      0.27,
+      0.11,
+      0.86,
+      0.8
+    ],
+    "cols": 96,
+    "char_aspect": 0.5,
+    "bg_threshold": 30,
+    "gamma": 0.85,
+    "floor": 0.15,
+    "equalize": true,
+    "ramp": " .:-=+*#%@",
+    "local_mix": 0.5,
+    "local_gain": 8,
+    "local_radius": 1.6,
+    "tone": "linear"
+  },
+  "about": "I recently graduated with a B.Tech in Computer Science & Engineering and I'm building my career in machine learning and AI. I like taking a problem from raw data to a working application: cleaning and exploring the data, engineering features, comparing models, and packaging the result so someone can actually use it. Right now I'm focused on NLP and applied machine learning in Python.",
+  "terminal": {
+    "info": [
+      [
+        "Role",
+        "AI/ML Developer (early career)"
+      ],
+      [
+        "Education",
+        "B.Tech CSE, Amity University Lucknow"
+      ],
+      [
+        "Batch",
+        "2026"
+      ],
+      [
+        "Location",
+        "Lucknow, India"
+      ],
+      [
+        "Focus",
+        "Machine Learning & NLP"
+      ]
+    ],
+    "stack": [
+      [
+        "Languages",
+        "Python, Java, C++, JavaScript"
+      ],
+      [
+        "AI/ML",
+        "Scikit-learn, TensorFlow, Keras, NLTK"
+      ],
+      [
+        "Data",
+        "Pandas, NumPy, SQL, Matplotlib"
+      ],
+      [
+        "Tools",
+        "Git, VS Code, Jupyter, Streamlit"
+      ],
+      [
+        "Cloud",
+        "AWS, SageMaker, Watsonx, GCP"
+      ]
+    ]
+  },
+  "skills": [
+    [
+      "Programming",
+      [
+        "Python",
+        "Java",
+        "C",
+        "C++",
+        "JavaScript"
+      ]
+    ],
+    [
+      "Machine Learning / AI",
+      [
+        "Scikit-learn",
+        "TensorFlow",
+        "Keras",
+        "NLP",
+        "NLTK",
+        "TF-IDF",
+        "SMOTE",
+        "Model evaluation",
+        "Feature engineering"
+      ]
+    ],
+    [
+      "Data",
+      [
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Seaborn",
+        "SQL",
+        "MySQL",
+        "SQLite"
+      ]
+    ],
+    [
+      "Tools & Platforms",
+      [
+        "Git",
+        "GitHub",
+        "GitHub Actions",
+        "VS Code",
+        "Jupyter Notebook",
+        "Streamlit"
+      ]
+    ],
+    [
+      "Cloud & AI Platforms",
+      [
+        "AWS",
+        "Amazon SageMaker",
+        "IBM Watson Studio / Watsonx",
+        "Google Cloud"
+      ]
+    ],
+    [
+      "Web & APIs",
+      [
+        "Django",
+        "REST / API concepts"
+      ]
+    ]
+  ],
+  "projects": [
+    {
+      "name": "Smart Crop Recommendation System",
+      "url": "",
+      "desc": "Recommends suitable crops from nitrogen, phosphorus, potassium, temperature, humidity, rainfall and soil pH.",
+      "tech": [
+        "Python",
+        "Pandas",
+        "Scikit-learn",
+        "Random Forest",
+        "Streamlit"
+      ]
+    },
+    {
+      "name": "Sentiment Analysis",
+      "url": "",
+      "desc": "NLP sentiment classification using TF-IDF features and classical machine-learning models.",
+      "tech": [
+        "Python",
+        "NLP",
+        "NLTK",
+        "TF-IDF",
+        "Scikit-learn"
+      ]
+    },
+    {
+      "name": "Client Behavior Prediction Using AI in Banking",
+      "url": "",
+      "desc": "Classification on the UCI Bank Marketing dataset to predict customer behavior, comparing several models and an ensemble.",
+      "tech": [
+        "Logistic Regression",
+        "QDA",
+        "Gaussian NB",
+        "Random Forest",
+        "AdaBoost",
+        "Voting Classifier"
+      ]
+    },
+    {
+      "name": "Flipkart Customer Service Satisfaction Prediction",
+      "url": "",
+      "desc": "Predicts customer satisfaction from textual and structured customer-service data.",
+      "tech": [
+        "Pandas",
+        "TF-IDF",
+        "SMOTE",
+        "Logistic Regression",
+        "GridSearchCV"
+      ]
+    }
+  ],
+  "experience": [
+    "**Machine Learning Intern, Labmentix**: Python and Pandas, data cleaning and quality checks, exploratory data analysis, feature engineering, visualization, and Scikit-learn models."
+  ],
+  "certifications": [
+    "AI Fundamentals: IBM SkillsBuild",
+    "Python Essentials 1: Cisco",
+    "Google Cloud Computing Foundations",
+    "Machine Learning Workshop: IIT Bombay / AWS"
+  ]
+}
