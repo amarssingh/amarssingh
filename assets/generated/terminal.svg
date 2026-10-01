@@ -112,16 +112,16 @@
 <text x="470.0" y="396.0" font-size="12.5" fill="#58a6ff" font-weight="bold" textLength="90.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">GitHub Stats</text>
 <text x="567.5" y="396.0" font-size="12.5" fill="#30363d" font-weight="normal" textLength="382.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve">───────────────────────────────────────────────────</text>
 <text x="470.0" y="413.5" font-size="12.5" fill="#3fb950" font-weight="normal" textLength="37.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Repos</text>
-<text x="515.0" y="413.5" font-size="12.5" fill="#484f58" font-weight="normal" textLength="420.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">........................................................</text>
-<text x="949.5" y="413.5" font-size="12.5" fill="#c9d1d9" font-weight="normal" textLength="22.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve">n/a</text>
+<text x="515.0" y="413.5" font-size="12.5" fill="#484f58" font-weight="normal" textLength="435.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">..........................................................</text>
+<text x="964.5" y="413.5" font-size="12.5" fill="#c9d1d9" font-weight="normal" textLength="7.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve">8</text>
 <text x="470.0" y="431.0" font-size="12.5" fill="#3fb950" font-weight="normal" textLength="37.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Stars</text>
-<text x="515.0" y="431.0" font-size="12.5" fill="#484f58" font-weight="normal" textLength="420.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">........................................................</text>
-<text x="949.5" y="431.0" font-size="12.5" fill="#c9d1d9" font-weight="normal" textLength="22.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve">n/a</text>
+<text x="515.0" y="431.0" font-size="12.5" fill="#484f58" font-weight="normal" textLength="435.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">..........................................................</text>
+<text x="964.5" y="431.0" font-size="12.5" fill="#c9d1d9" font-weight="normal" textLength="7.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve">0</text>
 <text x="470.0" y="448.5" font-size="12.5" fill="#3fb950" font-weight="normal" textLength="67.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Followers</text>
-<text x="545.0" y="448.5" font-size="12.5" fill="#484f58" font-weight="normal" textLength="390.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">....................................................</text>
-<text x="949.5" y="448.5" font-size="12.5" fill="#c9d1d9" font-weight="normal" textLength="22.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve">n/a</text>
+<text x="545.0" y="448.5" font-size="12.5" fill="#484f58" font-weight="normal" textLength="405.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">......................................................</text>
+<text x="964.5" y="448.5" font-size="12.5" fill="#c9d1d9" font-weight="normal" textLength="7.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2</text>
 <text x="470.0" y="466.0" font-size="12.5" fill="#3fb950" font-weight="normal" textLength="157.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Contributions (12 mo)</text>
-<text x="635.0" y="466.0" font-size="12.5" fill="#484f58" font-weight="normal" textLength="300.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">........................................</text>
-<text x="949.5" y="466.0" font-size="12.5" fill="#c9d1d9" font-weight="normal" textLength="22.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve">n/a</text>
-<text x="470.0" y="550.0" font-size="11" fill="#484f58" font-weight="normal" textLength="234.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">updated pending first workflow run</text>
+<text x="635.0" y="466.0" font-size="12.5" fill="#484f58" font-weight="normal" textLength="307.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.........................................</text>
+<text x="957.0" y="466.0" font-size="12.5" fill="#c9d1d9" font-weight="normal" textLength="15.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">36</text>
+<text x="470.0" y="550.0" font-size="11" fill="#484f58" font-weight="normal" textLength="124.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">updated 2026-10-01</text>
 </svg>
