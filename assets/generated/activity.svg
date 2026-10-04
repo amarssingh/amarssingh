@@ -14,15 +14,15 @@
 <text x="761.0" y="44.0" font-size="20" fill="#3fb950" font-weight="bold" textLength="24.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">36</text>
 <text x="761.0" y="66.0" font-size="11" fill="#8b949e" font-weight="normal" textLength="158.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Contributions, last year</text>
 <rect x="77" y="116" width="13" height="13" rx="2" fill="#161b22"/>
-<rect x="77" y="132" width="13" height="13" rx="2" fill="#161b22"/>
-<rect x="77" y="148" width="13" height="13" rx="2" fill="#161b22"/>
+<rect x="77" y="132" width="13" height="13" rx="2" fill="#0e4429"/>
+<rect x="77" y="148" width="13" height="13" rx="2" fill="#39d353"/>
 <rect x="77" y="164" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="77" y="180" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="77" y="196" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="77" y="212" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="93" y="116" width="13" height="13" rx="2" fill="#161b22"/>
-<rect x="93" y="132" width="13" height="13" rx="2" fill="#0e4429"/>
-<rect x="93" y="148" width="13" height="13" rx="2" fill="#39d353"/>
+<rect x="93" y="132" width="13" height="13" rx="2" fill="#161b22"/>
+<rect x="93" y="148" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="93" y="164" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="93" y="180" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="93" y="196" width="13" height="13" rx="2" fill="#161b22"/>
@@ -36,14 +36,14 @@
 <rect x="109" y="212" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="125" y="116" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="125" y="132" width="13" height="13" rx="2" fill="#161b22"/>
-<rect x="125" y="148" width="13" height="13" rx="2" fill="#161b22"/>
+<rect x="125" y="148" width="13" height="13" rx="2" fill="#0e4429"/>
 <rect x="125" y="164" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="125" y="180" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="125" y="196" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="125" y="212" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="141" y="116" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="141" y="132" width="13" height="13" rx="2" fill="#161b22"/>
-<rect x="141" y="148" width="13" height="13" rx="2" fill="#0e4429"/>
+<rect x="141" y="148" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="141" y="164" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="141" y="180" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="141" y="196" width="13" height="13" rx="2" fill="#161b22"/>
@@ -369,32 +369,27 @@
 <rect x="877" y="164" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="877" y="180" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="877" y="196" width="13" height="13" rx="2" fill="#161b22"/>
-<rect x="877" y="212" width="13" height="13" rx="2" fill="#161b22"/>
+<rect x="877" y="212" width="13" height="13" rx="2" fill="#26a641"/>
 <rect x="893" y="116" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="893" y="132" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="893" y="148" width="13" height="13" rx="2" fill="#161b22"/>
-<rect x="893" y="164" width="13" height="13" rx="2" fill="#161b22"/>
+<rect x="893" y="164" width="13" height="13" rx="2" fill="#006d32"/>
 <rect x="893" y="180" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="893" y="196" width="13" height="13" rx="2" fill="#161b22"/>
-<rect x="893" y="212" width="13" height="13" rx="2" fill="#26a641"/>
+<rect x="893" y="212" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="909" y="116" width="13" height="13" rx="2" fill="#161b22"/>
-<rect x="909" y="132" width="13" height="13" rx="2" fill="#161b22"/>
-<rect x="909" y="148" width="13" height="13" rx="2" fill="#161b22"/>
-<rect x="909" y="164" width="13" height="13" rx="2" fill="#006d32"/>
-<rect x="909" y="180" width="13" height="13" rx="2" fill="#161b22"/>
-<rect x="909" y="196" width="13" height="13" rx="2" fill="#161b22"/>
-<rect x="909" y="212" width="13" height="13" rx="2" fill="#161b22"/>
-<text x="93.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Oct</text>
-<text x="157.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Nov</text>
-<text x="237.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Dec</text>
-<text x="301.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Jan</text>
-<text x="365.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Feb</text>
-<text x="429.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Mar</text>
-<text x="509.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Apr</text>
-<text x="573.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">May</text>
-<text x="653.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Jun</text>
-<text x="717.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Jul</text>
-<text x="781.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Aug</text>
-<text x="861.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Sep</text>
+<text x="77.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Oct</text>
+<text x="141.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Nov</text>
+<text x="221.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Dec</text>
+<text x="285.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Jan</text>
+<text x="349.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Feb</text>
+<text x="413.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Mar</text>
+<text x="493.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Apr</text>
+<text x="557.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">May</text>
+<text x="637.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Jun</text>
+<text x="701.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Jul</text>
+<text x="765.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Aug</text>
+<text x="845.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Sep</text>
+<text x="909.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Oct</text>
 <text x="24.0" y="238.0" font-size="10.5" fill="#484f58" font-weight="normal" textLength="346.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Source: GitHub GraphQL API, refreshed by GitHub Actions</text>
 </svg>
