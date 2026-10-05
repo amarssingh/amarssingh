@@ -378,6 +378,7 @@
 <rect x="893" y="196" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="893" y="212" width="13" height="13" rx="2" fill="#161b22"/>
 <rect x="909" y="116" width="13" height="13" rx="2" fill="#161b22"/>
+<rect x="909" y="132" width="13" height="13" rx="2" fill="#161b22"/>
 <text x="77.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Oct</text>
 <text x="141.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Nov</text>
 <text x="221.0" y="106.0" font-size="10.5" fill="#8b949e" font-weight="normal" textLength="18.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Dec</text>
